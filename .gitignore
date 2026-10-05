@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+
+# FFmpeg binaries
+ffmpeg/*.exe
+
+# Build/cache
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
